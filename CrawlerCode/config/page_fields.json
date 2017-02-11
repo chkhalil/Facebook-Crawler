@@ -1,0 +1,9 @@
+[
+  "id",
+  "name",
+  "is_verified",
+  "category",
+  "fan_count",
+  "link",
+  "talking_about_count"
+]

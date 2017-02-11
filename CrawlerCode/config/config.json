@@ -1,0 +1,37 @@
+{
+  "graph_api_version": "2.6",
+  "access_tokens": [
+    {
+      "app_id": "1867754653437686",
+      "app_secret": "7703489ed88c6dee13bf30ca2b7bece7"
+    },
+    {
+      "app_id": "627744560711412",
+      "app_secret": "ed9700560876f90209ca181cde7d6d0a"
+    },
+    {
+      "app_id": "982515768532125",
+      "app_secret": "6802403ad83b55ba5f1e933b89f6a998"
+    },
+    {
+	"app_id": "659250297583887",
+	"app_secret": "1726f3f830889bd75b9679634276cc91"
+    },
+    {
+	"app_id": "106219743155135",
+	"app_secret": "0c6c5f678ed2538caba254a39b064673"
+    },
+    {
+	"app_id": "1734968940085830",
+	"app_secret": "5aaf850cc3a77de8f45bc371051fb5a1"
+    },
+    {
+	"app_id": "1557909764517518",
+	"app_secret": "89a28905d49163c473f32ed049013c1e"
+    },
+    {
+	"app_id": "162597150829385",
+	"app_secret": "80fcd44a3ed471267c413d7b7b6349e8"
+    }
+  ]
+}
